@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Kayaking :rowboat:
+* Hiking :hiking_boot:
+* Reading :books:
+* Volleyball :volleyball:
