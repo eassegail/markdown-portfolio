@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Hobbies include the following:
+* Boating of all kinds, especially riding on a __jetski__.
+* Reading
+* Hiking and **geocaching**
