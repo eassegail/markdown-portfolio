@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Best Kayaking in NJ](https://www.new-jersey-leisure-guide.com/kayaking.html)
